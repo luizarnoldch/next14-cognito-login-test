@@ -1,0 +1,6 @@
+{
+    "isSignUpComplete": true,
+    "nextStep": {
+        "signUpStep": "COMPLETE_AUTO_SIGN_IN"
+    }
+}

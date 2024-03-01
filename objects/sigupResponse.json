@@ -1,0 +1,12 @@
+{
+    "isSignUpComplete": false,
+    "nextStep": {
+        "signUpStep": "CONFIRM_SIGN_UP",
+        "codeDeliveryDetails": {
+            "deliveryMedium": "EMAIL",
+            "destination": "l***@g***",
+            "attributeName": "email"
+        }
+    },
+    "userId": "64687458-8051-7093-efba-fc9b132dbcd2"
+}

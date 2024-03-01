@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextcognitologintest-dev-151454-authRole",
+      "UnauthRoleArn": "arn:aws:iam::681318508133:role/amplify-nextcognitologintest-dev-151454-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::681318508133:role/amplify-nextcognitologintest-dev-151454-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nextcognitologintest-dev-151454-deployment",
+      "UnauthRoleName": "amplify-nextcognitologintest-dev-151454-unauthRole",
+      "StackName": "amplify-nextcognitologintest-dev-151454",
+      "StackId": "arn:aws:cloudformation:us-east-1:681318508133:stack/amplify-nextcognitologintest-dev-151454/b5d76140-d4e3-11ee-b730-0aeb88e78e3f",
+      "AmplifyAppId": "d3j4j5cctkuwcw"
+    },
+    "categories": {
+      "auth": {
+        "nextcognitologintest7940c876": {
+          "userPoolId": "us-east-1_88gWBbzPM",
+          "userPoolName": "MorseCode-user-pool",
+          "webClientId": "6jhjcse67j9f4ha0dcc381eqkl",
+          "nativeClientId": "6jhjcse67j9f4ha0dcc381eqkl"
+        }
+      }
+    }
+  }
+}

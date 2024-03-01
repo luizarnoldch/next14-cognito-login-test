@@ -1,0 +1,6 @@
+{
+    "isSignedIn": true,
+    "nextStep": {
+        "signInStep": "DONE"
+    }
+}

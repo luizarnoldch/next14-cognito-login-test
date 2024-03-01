@@ -1,0 +1,39 @@
+{
+    "accessToken": {
+        "payload": {
+            "sub": "04585478-b0d1-7003-74c7-08f9e1c2e89f",
+            "iss": "https://cognito-idp.us-east-1.amazonaws.com/us-east-1_88gWBbzPM",
+            "client_id": "6jhjcse67j9f4ha0dcc381eqkl",
+            "origin_jti": "6463e734-4c6d-4427-873a-43d13f37cf04",
+            "event_id": "f9ff0ba2-cf87-482b-a796-7373f8c804b5",
+            "token_use": "access",
+            "scope": "aws.cognito.signin.user.admin",
+            "auth_time": 1709012173,
+            "exp": 1709015773,
+            "iat": 1709012173,
+            "jti": "8b4c9eca-3c38-4d9a-b834-757a10f9bec0",
+            "username": "04585478-b0d1-7003-74c7-08f9e1c2e89f"
+        }
+    },
+    "idToken": {
+        "payload": {
+            "sub": "04585478-b0d1-7003-74c7-08f9e1c2e89f",
+            "email_verified": true,
+            "iss": "https://cognito-idp.us-east-1.amazonaws.com/us-east-1_88gWBbzPM",
+            "cognito:username": "04585478-b0d1-7003-74c7-08f9e1c2e89f",
+            "origin_jti": "6463e734-4c6d-4427-873a-43d13f37cf04",
+            "aud": "6jhjcse67j9f4ha0dcc381eqkl",
+            "event_id": "f9ff0ba2-cf87-482b-a796-7373f8c804b5",
+            "token_use": "id",
+            "auth_time": 1709012173,
+            "exp": 1709015773,
+            "iat": 1709012173,
+            "jti": "2677e964-5722-4267-95a0-bb5e7dcfc22d",
+            "email": "luizarnoldch@gmail.com"
+        }
+    },
+    "signInDetails": {
+        "loginId": "luizarnoldch@gmail.com",
+        "authFlowType": "USER_SRP_AUTH"
+    }
+}
