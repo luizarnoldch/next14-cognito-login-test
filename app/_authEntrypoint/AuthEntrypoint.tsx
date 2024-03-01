@@ -9,9 +9,7 @@ Amplify.configure(config);
 cognitoUserPoolsTokenProvider.setKeyValueStorage(new CookieStorage());
 
 const AuthEntrypoint = () => {
-  return (
-    <></>
-  )
+  return null
 }
 
 export default AuthEntrypoint
